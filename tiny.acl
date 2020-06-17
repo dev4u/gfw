@@ -1,5 +1,5 @@
 [bypass_list]
-^github\.com$
+(^)github\.com$
 (^|\.)connectivitycheck\.gstatic\.com$
 (^|\.)beacons\.gcp\.gvt2\.com$
 (^|\.)beacons\.gvt2\.com$
