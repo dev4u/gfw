@@ -5,6 +5,20 @@
 (^|\.)beacons\.gvt2\.com$
 (^|\.)beacons3\.gvt2\.com$
 (^|\.)safebrowsing\.googleapis\.com$
+(^|\.)googleapis\.cn$
+(^|\.)ocsp\.pki\.goog$
+(^|\.)redirector\.gvt1\.com$
+(^|\.)safebrowsing-cache\.google\.com$
+(^|\.)ssl\.gstatic\.com$
+(^|\.)fonts\.gstatic\.com$
+(^|\.)fonts\.googleapis\.com$
+(^|\.)dl\.l\.google\.com$
+(^|\.)dl\.google\.com$
+(^|\.)crl\.pki\.goog$
+(^|\.)clientservices\.googleapis\.com$
+(^)www\.gstatic\.com$
+(^|\.)res\.res\.res\.res$
+(^|\.)(xunlei|sandai|Thunder|XLLiveUD)(.)
 
 [proxy_list]
 149.154.167.99/32
