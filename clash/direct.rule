@@ -8,6 +8,7 @@ payload:
   - DOMAIN,msg.umengcloud.com
   - DOMAIN,mtalk.google.com
   - DOMAIN,router.asus.com
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN,vd.l.qq.com
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD,360buy
@@ -132,6 +133,8 @@ payload:
   - DOMAIN-SUFFIX,bdstatic.com
   - DOMAIN-SUFFIX,bdurl.net
   - DOMAIN-SUFFIX,beitai.pt
+  - DOMAIN-SUFFIX,bigfun.cn
+  - DOMAIN-SUFFIX,bigfunapp.cn
   - DOMAIN-SUFFIX,biliapi.com
   - DOMAIN-SUFFIX,biliapi.net
   - DOMAIN-SUFFIX,bilibili.com
@@ -480,6 +483,8 @@ payload:
   - DOMAIN-SUFFIX,repaik.com
   - DOMAIN-SUFFIX,routerlogin.com
   - DOMAIN-SUFFIX,rrmj.tv
+  - DOMAIN-SUFFIX,rrys.tv
+  - DOMAIN-SUFFIX,rrys2020.com
   - DOMAIN-SUFFIX,ruguoapp.com
   - DOMAIN-SUFFIX,runoob.com
   - DOMAIN-SUFFIX,safebrowsing-cache.google.com
@@ -642,6 +647,7 @@ payload:
   - DOMAIN-SUFFIX,yunjiasu-cdn.net
   - DOMAIN-SUFFIX,yximgs.com
   - DOMAIN-SUFFIX,yy.com
+  - DOMAIN-SUFFIX,yyets.com
   - DOMAIN-SUFFIX,yystatic.com
   - DOMAIN-SUFFIX,zealer.com
   - DOMAIN-SUFFIX,zhangzishi.cc
