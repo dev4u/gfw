@@ -392,6 +392,7 @@ payload:
   - DOMAIN-SUFFIX,apkplz.com
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,aplusvpn.com
+  - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,app-measurement.net
   - DOMAIN-SUFFIX,appdownloader.net
   - DOMAIN-SUFFIX,appledaily.com
@@ -3093,7 +3094,6 @@ payload:
   - DOMAIN-SUFFIX,lyfhk.net
   - DOMAIN-SUFFIX,lzmtnews.org
   - DOMAIN-SUFFIX,m-sport.co.uk
-  - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,macgamestore.com
   - DOMAIN-SUFFIX,macrovpn.com
