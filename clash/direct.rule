@@ -2,12 +2,17 @@ payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,app.adjust.com
   - DOMAIN,apple.comscoreresearch.com
+  - DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
   - DOMAIN,dl.google.com
+  - DOMAIN,dl.steam.ksyna.com
   - DOMAIN,livew.l.qq.com
   - DOMAIN,msg.umeng.com
   - DOMAIN,msg.umengcloud.com
   - DOMAIN,mtalk.google.com
   - DOMAIN,router.asus.com
+  - DOMAIN,st.dl.bscstorage.net
+  - DOMAIN,st.dl.eccdnx.com
+  - DOMAIN,st.dl.pinyuncloud.com
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN,vd.l.qq.com
   - DOMAIN-KEYWORD,-cn
@@ -33,6 +38,8 @@ payload:
   - DOMAIN-KEYWORD,xiami
   - DOMAIN-KEYWORD,xiaomi
   - DOMAIN-SUFFIX,00cdn.com
+  - DOMAIN-SUFFIX,10010.com
+  - DOMAIN-SUFFIX,115.com
   - DOMAIN-SUFFIX,12306.com
   - DOMAIN-SUFFIX,126.com
   - DOMAIN-SUFFIX,126.net
@@ -189,6 +196,7 @@ payload:
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crl.pki.goog
   - DOMAIN-SUFFIX,csdn.net
+  - DOMAIN-SUFFIX,csgo.wmsj.cn
   - DOMAIN-SUFFIX,ctrip.com
   - DOMAIN-SUFFIX,dangdang.com
   - DOMAIN-SUFFIX,dbankcdn.com
@@ -201,6 +209,7 @@ payload:
   - DOMAIN-SUFFIX,dingtalk.com
   - DOMAIN-SUFFIX,dl.google.com
   - DOMAIN-SUFFIX,dl.l.google.com
+  - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,douban.com
   - DOMAIN-SUFFIX,doubanio.com
   - DOMAIN-SUFFIX,douyu.com
@@ -236,6 +245,7 @@ payload:
   - DOMAIN-SUFFIX,gazellegames.net
   - DOMAIN-SUFFIX,geetest.com
   - DOMAIN-SUFFIX,geilicdn.com
+  - DOMAIN-SUFFIX,ghpym.com
   - DOMAIN-SUFFIX,gifshow.com
   - DOMAIN-SUFFIX,go2map.com
   - DOMAIN-SUFFIX,godic.net
@@ -395,6 +405,7 @@ payload:
   - DOMAIN-SUFFIX,mi-img.com
   - DOMAIN-SUFFIX,mi.com
   - DOMAIN-SUFFIX,miaopai.com
+  - DOMAIN-SUFFIX,migucloud.com
   - DOMAIN-SUFFIX,miguvideo.com
   - DOMAIN-SUFFIX,miui.com
   - DOMAIN-SUFFIX,miwifi.com
@@ -624,6 +635,7 @@ payload:
   - DOMAIN-SUFFIX,xiaomicp.com
   - DOMAIN-SUFFIX,ximalaya.com
   - DOMAIN-SUFFIX,xinhuanet.com
+  - DOMAIN-SUFFIX,xip.io
   - DOMAIN-SUFFIX,xitek.com
   - DOMAIN-SUFFIX,xiumi.us
   - DOMAIN-SUFFIX,xmcdn.com
