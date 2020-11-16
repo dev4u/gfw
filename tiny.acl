@@ -100,7 +100,7 @@
 #**********************************************************************
 [proxy_list]
 
-^cp\.cloudflare\.com$
+(^|\.)cp\.cloudflare\.com$
 
 # MyList
 (^|\.)1password\.com$
