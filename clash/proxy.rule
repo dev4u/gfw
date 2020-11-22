@@ -1180,6 +1180,7 @@ payload:
   - DOMAIN-SUFFIX,db.tt
   - DOMAIN-SUFFIX,dbc.hk
   - DOMAIN-SUFFIX,dcard.tw
+  - DOMAIN-SUFFIX,dcblivedazn.akamaized.net
   - DOMAIN-SUFFIX,dcmilitary.com
   - DOMAIN-SUFFIX,ddc.com.tw
   - DOMAIN-SUFFIX,ddhw.info
@@ -3703,7 +3704,6 @@ payload:
   - DOMAIN-SUFFIX,openwrt.org.cn
   - DOMAIN-SUFFIX,opera-mini.net
   - DOMAIN-SUFFIX,opera.com
-  - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,opus-gaming.com
   - DOMAIN-SUFFIX,orchidbbs.com
   - DOMAIN-SUFFIX,organcare.org.tw
