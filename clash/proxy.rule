@@ -134,6 +134,7 @@ payload:
   - DOMAIN-SUFFIX,24hrs.ca
   - DOMAIN-SUFFIX,24smile.org
   - DOMAIN-SUFFIX,25u.com
+  - DOMAIN-SUFFIX,265.com
   - DOMAIN-SUFFIX,2lipstube.com
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,2shared.com
@@ -307,6 +308,14 @@ payload:
   - DOMAIN-SUFFIX,almasdarnews.com
   - DOMAIN-SUFFIX,almostmy.com
   - DOMAIN-SUFFIX,alphaporno.com
+  - DOMAIN-SUFFIX,alt1-mtalk.google.com
+  - DOMAIN-SUFFIX,alt2-mtalk.google.com
+  - DOMAIN-SUFFIX,alt3-mtalk.google.com
+  - DOMAIN-SUFFIX,alt4-mtalk.google.com
+  - DOMAIN-SUFFIX,alt5-mtalk.google.com
+  - DOMAIN-SUFFIX,alt6-mtalk.google.com
+  - DOMAIN-SUFFIX,alt7-mtalk.google.com
+  - DOMAIN-SUFFIX,alt8-mtalk.google.com
   - DOMAIN-SUFFIX,alternate-tools.com
   - DOMAIN-SUFFIX,alternativeto.net
   - DOMAIN-SUFFIX,altrec.com
@@ -749,10 +758,12 @@ payload:
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,c-est-simple.com
   - DOMAIN-SUFFIX,c-spanvideo.org
+  - DOMAIN-SUFFIX,c.android.clients.google.com
   - DOMAIN-SUFFIX,c100tibet.org
   - DOMAIN-SUFFIX,c2cx.com
   - DOMAIN-SUFFIX,c4assets.com
   - DOMAIN-SUFFIX,cablegatesearch.net
+  - DOMAIN-SUFFIX,cache.pack.google.com
   - DOMAIN-SUFFIX,cachinese.com
   - DOMAIN-SUFFIX,cacnw.com
   - DOMAIN-SUFFIX,cactusvpn.com
@@ -993,6 +1004,8 @@ payload:
   - DOMAIN-SUFFIX,clearsurance.com
   - DOMAIN-SUFFIX,clearwisdom.net
   - DOMAIN-SUFFIX,clementine-player.org
+  - DOMAIN-SUFFIX,clickserve.dartsearch.net
+  - DOMAIN-SUFFIX,clientservices.googleapis.com
   - DOMAIN-SUFFIX,clinica-tibet.ru
   - DOMAIN-SUFFIX,clipfish.de
   - DOMAIN-SUFFIX,cloakpoint.com
@@ -1089,6 +1102,7 @@ payload:
   - DOMAIN-SUFFIX,creativelab5.com
   - DOMAIN-SUFFIX,crisisresponse.google
   - DOMAIN-SUFFIX,cristyli.com
+  - DOMAIN-SUFFIX,crl.pki.goog
   - DOMAIN-SUFFIX,crocotube.com
   - DOMAIN-SUFFIX,crossfire.co.kr
   - DOMAIN-SUFFIX,crossthewall.net
@@ -1264,6 +1278,8 @@ payload:
   - DOMAIN-SUFFIX,djangosnippets.org
   - DOMAIN-SUFFIX,djorz.com
   - DOMAIN-SUFFIX,dl-laby.jp
+  - DOMAIN-SUFFIX,dl.google.com
+  - DOMAIN-SUFFIX,dl.l.google.com
   - DOMAIN-SUFFIX,dlsite.com
   - DOMAIN-SUFFIX,dlsite.jp
   - DOMAIN-SUFFIX,dlyoutube.com
@@ -1711,6 +1727,8 @@ payload:
   - DOMAIN-SUFFIX,fofg-europe.net
   - DOMAIN-SUFFIX,fofg.org
   - DOMAIN-SUFFIX,fofldfradio.org
+  - DOMAIN-SUFFIX,fonts.googleapis.com
+  - DOMAIN-SUFFIX,fonts.gstatic.com
   - DOMAIN-SUFFIX,foolsmountain.com
   - DOMAIN-SUFFIX,fooooo.com
   - DOMAIN-SUFFIX,footwiball.com
@@ -2236,6 +2254,8 @@ payload:
   - DOMAIN-SUFFIX,googlescholar.com
   - DOMAIN-SUFFIX,googlesile.com
   - DOMAIN-SUFFIX,googlesource.com
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,googletagservices.com
   - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,googleweblight.com
@@ -2280,6 +2300,7 @@ payload:
   - DOMAIN-SUFFIX,gs-discuss.com
   - DOMAIN-SUFFIX,gstatic.cn
   - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,gtm.oasisfeng.com
   - DOMAIN-SUFFIX,gtricks.com
   - DOMAIN-SUFFIX,gts-vpn.com
   - DOMAIN-SUFFIX,gtv.org
@@ -2644,6 +2665,7 @@ payload:
   - DOMAIN-SUFFIX,imageshack.us
   - DOMAIN-SUFFIX,imagevenue.com
   - DOMAIN-SUFFIX,imagezilla.net
+  - DOMAIN-SUFFIX,imasdk.googleapis.com
   - DOMAIN-SUFFIX,imb.org
   - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,img.ly
@@ -2919,8 +2941,21 @@ payload:
   - DOMAIN-SUFFIX,kex.com
   - DOMAIN-SUFFIX,keycdn.com
   - DOMAIN-SUFFIX,kfs.io
+  - DOMAIN-SUFFIX,kh.google.com
   - DOMAIN-SUFFIX,khabdha.org
   - DOMAIN-SUFFIX,khatrimaza.org
+  - DOMAIN-SUFFIX,khm.google.com
+  - DOMAIN-SUFFIX,khm.googleapis.com
+  - DOMAIN-SUFFIX,khm0.google.com
+  - DOMAIN-SUFFIX,khm0.googleapis.com
+  - DOMAIN-SUFFIX,khm1.google.com
+  - DOMAIN-SUFFIX,khm1.googleapis.com
+  - DOMAIN-SUFFIX,khm2.google.com
+  - DOMAIN-SUFFIX,khm2.googleapis.com
+  - DOMAIN-SUFFIX,khm3.google.com
+  - DOMAIN-SUFFIX,khm3.googleapis.com
+  - DOMAIN-SUFFIX,khmdb.google.com
+  - DOMAIN-SUFFIX,khmdb.googleapis.com
   - DOMAIN-SUFFIX,khmusic.com.tw
   - DOMAIN-SUFFIX,kichiku-doujinko.com
   - DOMAIN-SUFFIX,kik.com
@@ -3365,6 +3400,7 @@ payload:
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,msn.com.tw
   - DOMAIN-SUFFIX,mswe1.org
+  - DOMAIN-SUFFIX,mtalk.google.com
   - DOMAIN-SUFFIX,mthruf.com
   - DOMAIN-SUFFIX,mtw.tl
   - DOMAIN-SUFFIX,mubi.com
@@ -3667,6 +3703,7 @@ payload:
   - DOMAIN-SUFFIX,ocnttv.com
   - DOMAIN-SUFFIX,ocreampies.com
   - DOMAIN-SUFFIX,ocry.com
+  - DOMAIN-SUFFIX,ocsp.pki.goog
   - DOMAIN-SUFFIX,october-review.org
   - DOMAIN-SUFFIX,oculus.com
   - DOMAIN-SUFFIX,oculuscdn.com
@@ -4133,6 +4170,7 @@ payload:
   - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,redhat.com
   - DOMAIN-SUFFIX,redhotlabs.com
+  - DOMAIN-SUFFIX,redirector.gvt1.com
   - DOMAIN-SUFFIX,redtube.com
   - DOMAIN-SUFFIX,referer.us
   - DOMAIN-SUFFIX,reflectivecode.com
@@ -4217,6 +4255,8 @@ payload:
   - DOMAIN-SUFFIX,sacom.hk
   - DOMAIN-SUFFIX,sadistic-v.com
   - DOMAIN-SUFFIX,sadpanda.us
+  - DOMAIN-SUFFIX,safebrowsing-cache.google.com
+  - DOMAIN-SUFFIX,safebrowsing.googleapis.com
   - DOMAIN-SUFFIX,safervpn.com
   - DOMAIN-SUFFIX,safety.google
   - DOMAIN-SUFFIX,saintyculture.com
@@ -4285,6 +4325,7 @@ payload:
   - DOMAIN-SUFFIX,sesawe.org
   - DOMAIN-SUFFIX,sethwklein.net
   - DOMAIN-SUFFIX,setn.com
+  - DOMAIN-SUFFIX,settings.crashlytics.com
   - DOMAIN-SUFFIX,settv.com.tw
   - DOMAIN-SUFFIX,setty.com.tw
   - DOMAIN-SUFFIX,sevenload.com
@@ -4524,6 +4565,8 @@ payload:
   - DOMAIN-SUFFIX,ssglobal.co
   - DOMAIN-SUFFIX,ssglobal.me
   - DOMAIN-SUFFIX,ssh91.com
+  - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
+  - DOMAIN-SUFFIX,ssl.gstatic.com
   - DOMAIN-SUFFIX,ssl443.org
   - DOMAIN-SUFFIX,sspanel.net
   - DOMAIN-SUFFIX,sspro.ml
@@ -4920,6 +4963,9 @@ payload:
   - DOMAIN-SUFFIX,tono-oka.jp
   - DOMAIN-SUFFIX,tonyyan.net
   - DOMAIN-SUFFIX,toodoc.com
+  - DOMAIN-SUFFIX,toolbarqueries.google.com
+  - DOMAIN-SUFFIX,tools.google.com
+  - DOMAIN-SUFFIX,tools.l.google.com
   - DOMAIN-SUFFIX,toonel.net
   - DOMAIN-SUFFIX,top.tv
   - DOMAIN-SUFFIX,top10vpn.com
@@ -5186,6 +5232,7 @@ payload:
   - DOMAIN-SUFFIX,unsplash.com
   - DOMAIN-SUFFIX,untraceable.us
   - DOMAIN-SUFFIX,uocn.org
+  - DOMAIN-SUFFIX,update.googleapis.com
   - DOMAIN-SUFFIX,updatestar.com
   - DOMAIN-SUFFIX,upholdjustice.org
   - DOMAIN-SUFFIX,upload4u.info
@@ -5561,6 +5608,8 @@ payload:
   - DOMAIN-SUFFIX,wuyanblog.com
   - DOMAIN-SUFFIX,wwe.com
   - DOMAIN-SUFFIX,wwitv.com
+  - DOMAIN-SUFFIX,www-googletagmanager.l.google.com
+  - DOMAIN-SUFFIX,www.gstatic.com
   - DOMAIN-SUFFIX,www1.biz
   - DOMAIN-SUFFIX,wwwhost.biz
   - DOMAIN-SUFFIX,wzyboy.im
