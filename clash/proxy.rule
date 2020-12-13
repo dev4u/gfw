@@ -25,7 +25,6 @@ payload:
   - DOMAIN,foxsports03-i.akamaihd.net
   - DOMAIN,gamer-cds.cdn.hinet.net
   - DOMAIN,gamer2-cds.cdn.hinet.net
-  - DOMAIN,global.edge.bamgrid.com
   - DOMAIN,gspe1-ssl.ls.apple.com
   - DOMAIN,hamifans.emome.net
   - DOMAIN,hboasia1-i.akamaihd.net
@@ -1073,6 +1072,7 @@ payload:
   - DOMAIN-SUFFIX,conoha.jp
   - DOMAIN-SUFFIX,constitutionalism.solutions
   - DOMAIN-SUFFIX,contactmagazine.net
+  - DOMAIN-SUFFIX,control.kochava.com
   - DOMAIN-SUFFIX,convio.net
   - DOMAIN-SUFFIX,conviva.com
   - DOMAIN-SUFFIX,coobay.com
@@ -1202,6 +1202,10 @@ payload:
   - DOMAIN-SUFFIX,dazndn.com
   - DOMAIN-SUFFIX,db.tt
   - DOMAIN-SUFFIX,dbc.hk
+  - DOMAIN-SUFFIX,dc2-vodhls-perform.secure.footprint.net
+  - DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
+  - DOMAIN-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net
+  - DOMAIN-SUFFIX,dcalivedazn.akamaized.net
   - DOMAIN-SUFFIX,dcard.tw
   - DOMAIN-SUFFIX,dcblivedazn.akamaized.net
   - DOMAIN-SUFFIX,dcmilitary.com
@@ -1270,6 +1274,7 @@ payload:
   - DOMAIN-SUFFIX,disney.my.sentry.io
   - DOMAIN-SUFFIX,disneyplus.bn5x.net
   - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disneystreaming.com
   - DOMAIN-SUFFIX,disp.cc
   - DOMAIN-SUFFIX,disqus.com
   - DOMAIN-SUFFIX,dit-inc.us
@@ -2731,7 +2736,6 @@ payload:
   - DOMAIN-SUFFIX,iptv.com.tw
   - DOMAIN-SUFFIX,iptvbin.com
   - DOMAIN-SUFFIX,ipvanish.com
-  - DOMAIN-SUFFIX,iqiyi.com
   - DOMAIN-SUFFIX,iredmail.org
   - DOMAIN-SUFFIX,irib.ir
   - DOMAIN-SUFFIX,ironpython.net
@@ -3135,6 +3139,7 @@ payload:
   - DOMAIN-SUFFIX,logbot.net
   - DOMAIN-SUFFIX,logiqx.com
   - DOMAIN-SUFFIX,logmein.com
+  - DOMAIN-SUFFIX,logx.optimizely.com
   - DOMAIN-SUFFIX,londonchinese.ca
   - DOMAIN-SUFFIX,longhair.hk
   - DOMAIN-SUFFIX,longmusic.com
@@ -3733,6 +3738,7 @@ payload:
   - DOMAIN-SUFFIX,on.cc
   - DOMAIN-SUFFIX,on2.com
   - DOMAIN-SUFFIX,onapp.com
+  - DOMAIN-SUFFIX,onboarding.indazn.com
   - DOMAIN-SUFFIX,oneclient.sfx.ms
   - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,onedrive.live.com
@@ -4043,6 +4049,7 @@ payload:
   - DOMAIN-SUFFIX,pts.org.tw
   - DOMAIN-SUFFIX,ptt.cc
   - DOMAIN-SUFFIX,pttvan.org
+  - DOMAIN-SUFFIX,pubby.indazn.com
   - DOMAIN-SUFFIX,pubu.com.tw
   - DOMAIN-SUFFIX,puffinbrowser.com
   - DOMAIN-SUFFIX,puffstore.com
@@ -4118,6 +4125,7 @@ payload:
   - DOMAIN-SUFFIX,raggedbanner.com
   - DOMAIN-SUFFIX,raidcall.com.tw
   - DOMAIN-SUFFIX,raidtalk.com.tw
+  - DOMAIN-SUFFIX,rail.discovery.indazn.com
   - DOMAIN-SUFFIX,rainbowplan.org
   - DOMAIN-SUFFIX,raindrop.io
   - DOMAIN-SUFFIX,raizoji.or.jp
@@ -4245,6 +4253,7 @@ payload:
   - DOMAIN-SUFFIX,rxhj.net
   - DOMAIN-SUFFIX,s-cute.com
   - DOMAIN-SUFFIX,s-dragon.org
+  - DOMAIN-SUFFIX,s.yimg.jp
   - DOMAIN-SUFFIX,s1heng.com
   - DOMAIN-SUFFIX,s1s1s1.com
   - DOMAIN-SUFFIX,s4miniarchive.com
