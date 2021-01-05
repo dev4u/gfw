@@ -35,6 +35,8 @@ payload:
   - DOMAIN,itvpnpmobile-a.akamaihd.net
   - DOMAIN,kktv-theater.kk.stream
   - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+  - DOMAIN,mytvsuperlimited.hb.omtrdc.net
+  - DOMAIN,mytvsuperlimited.sc.omtrdc.net
   - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,play-edge.itunes.apple.com
@@ -344,6 +346,7 @@ payload:
   - DOMAIN-SUFFIX,amnestyusa.org
   - DOMAIN-SUFFIX,amnyemachen.org
   - DOMAIN-SUFFIX,amoiist.com
+  - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,ampproject.org
   - DOMAIN-SUFFIX,amtb-taipei.org
   - DOMAIN-SUFFIX,anchorfree.com
@@ -505,7 +508,7 @@ payload:
   - DOMAIN-SUFFIX,bailandaily.com
   - DOMAIN-SUFFIX,baixing.me
   - DOMAIN-SUFFIX,bakgeekhome.tk
-  - DOMAIN-SUFFIX,bam.nr-date.net
+  - DOMAIN-SUFFIX,bam.nr-data.net
   - DOMAIN-SUFFIX,bamgrid.com
   - DOMAIN-SUFFIX,banana-vpn.com
   - DOMAIN-SUFFIX,band.us
@@ -548,6 +551,7 @@ payload:
   - DOMAIN-SUFFIX,bbsone.com
   - DOMAIN-SUFFIX,bbtoystore.com
   - DOMAIN-SUFFIX,bcast.co.nz
+  - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
   - DOMAIN-SUFFIX,bcc.com.tw
   - DOMAIN-SUFFIX,bcchinese.net
   - DOMAIN-SUFFIX,bcex.ca
@@ -839,8 +843,8 @@ payload:
   - DOMAIN-SUFFIX,cdig.info
   - DOMAIN-SUFFIX,cdjp.org
   - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,cdn.optimizely.com
   - DOMAIN-SUFFIX,cdn.registerdisney.go.com
-  - DOMAIN-SUFFIX,cdn.unid.go.com
   - DOMAIN-SUFFIX,cdnews.com.tw
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,cdp1989.org
@@ -859,6 +863,7 @@ payload:
   - DOMAIN-SUFFIX,centralnation.com
   - DOMAIN-SUFFIX,centurys.net
   - DOMAIN-SUFFIX,certificate-transparency.org
+  - DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
   - DOMAIN-SUFFIX,cfhks.org.hk
   - DOMAIN-SUFFIX,cfos.de
   - DOMAIN-SUFFIX,cftfc.com
@@ -1074,7 +1079,6 @@ payload:
   - DOMAIN-SUFFIX,contactmagazine.net
   - DOMAIN-SUFFIX,control.kochava.com
   - DOMAIN-SUFFIX,convio.net
-  - DOMAIN-SUFFIX,conviva.com
   - DOMAIN-SUFFIX,coobay.com
   - DOMAIN-SUFFIX,cool18.com
   - DOMAIN-SUFFIX,coolaler.com
@@ -1128,6 +1132,8 @@ payload:
   - DOMAIN-SUFFIX,cutscenes.net
   - DOMAIN-SUFFIX,cw.com.tw
   - DOMAIN-SUFFIX,cwb.gov.tw
+  - DOMAIN-SUFFIX,cws-hulu.conviva.com
+  - DOMAIN-SUFFIX,cws.conviva.com
   - DOMAIN-SUFFIX,cyberctm.com
   - DOMAIN-SUFFIX,cyberghostvpn.com
   - DOMAIN-SUFFIX,cynscribe.com
@@ -1274,6 +1280,7 @@ payload:
   - DOMAIN-SUFFIX,disney.my.sentry.io
   - DOMAIN-SUFFIX,disneyplus.bn5x.net
   - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
   - DOMAIN-SUFFIX,disneystreaming.com
   - DOMAIN-SUFFIX,disp.cc
   - DOMAIN-SUFFIX,disqus.com
@@ -2498,6 +2505,7 @@ payload:
   - DOMAIN-SUFFIX,hmvdigital.com
   - DOMAIN-SUFFIX,hnjhj.com
   - DOMAIN-SUFFIX,hnntube.com
+  - DOMAIN-SUFFIX,hockeyapp.net
   - DOMAIN-SUFFIX,hola.com
   - DOMAIN-SUFFIX,hola.org
   - DOMAIN-SUFFIX,holymountaincn.com
@@ -2572,7 +2580,10 @@ payload:
   - DOMAIN-SUFFIX,huiyi.in
   - DOMAIN-SUFFIX,hulkshare.com
   - DOMAIN-SUFFIX,hulu.com
+  - DOMAIN-SUFFIX,hulu.hb.omtrdc.net
   - DOMAIN-SUFFIX,hulu.jp
+  - DOMAIN-SUFFIX,hulu.sc.omtrdc.net
+  - DOMAIN-SUFFIX,huluad.com
   - DOMAIN-SUFFIX,huluim.com
   - DOMAIN-SUFFIX,hulustream.com
   - DOMAIN-SUFFIX,humanrightsbriefing.org
@@ -3139,7 +3150,6 @@ payload:
   - DOMAIN-SUFFIX,logbot.net
   - DOMAIN-SUFFIX,logiqx.com
   - DOMAIN-SUFFIX,logmein.com
-  - DOMAIN-SUFFIX,logx.optimizely.com
   - DOMAIN-SUFFIX,londonchinese.ca
   - DOMAIN-SUFFIX,longhair.hk
   - DOMAIN-SUFFIX,longmusic.com
@@ -3202,6 +3212,7 @@ payload:
   - DOMAIN-SUFFIX,mangafox.me
   - DOMAIN-SUFFIX,maniash.com
   - DOMAIN-SUFFIX,manicur4ik.ru
+  - DOMAIN-SUFFIX,manifest.prod.boltdns.net
   - DOMAIN-SUFFIX,mansion.com
   - DOMAIN-SUFFIX,mansionpoker.com
   - DOMAIN-SUFFIX,manta.com
@@ -3738,7 +3749,6 @@ payload:
   - DOMAIN-SUFFIX,on.cc
   - DOMAIN-SUFFIX,on2.com
   - DOMAIN-SUFFIX,onapp.com
-  - DOMAIN-SUFFIX,onboarding.indazn.com
   - DOMAIN-SUFFIX,oneclient.sfx.ms
   - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,onedrive.live.com
@@ -4049,7 +4059,6 @@ payload:
   - DOMAIN-SUFFIX,pts.org.tw
   - DOMAIN-SUFFIX,ptt.cc
   - DOMAIN-SUFFIX,pttvan.org
-  - DOMAIN-SUFFIX,pubby.indazn.com
   - DOMAIN-SUFFIX,pubu.com.tw
   - DOMAIN-SUFFIX,puffinbrowser.com
   - DOMAIN-SUFFIX,puffstore.com
@@ -4125,7 +4134,6 @@ payload:
   - DOMAIN-SUFFIX,raggedbanner.com
   - DOMAIN-SUFFIX,raidcall.com.tw
   - DOMAIN-SUFFIX,raidtalk.com.tw
-  - DOMAIN-SUFFIX,rail.discovery.indazn.com
   - DOMAIN-SUFFIX,rainbowplan.org
   - DOMAIN-SUFFIX,raindrop.io
   - DOMAIN-SUFFIX,raizoji.or.jp
@@ -4153,6 +4161,7 @@ payload:
   - DOMAIN-SUFFIX,rdtcdn.com
   - DOMAIN-SUFFIX,read01.com
   - DOMAIN-SUFFIX,read100.com
+  - DOMAIN-SUFFIX,readdle.com
   - DOMAIN-SUFFIX,readingtimes.com.tw
   - DOMAIN-SUFFIX,readmoo.com
   - DOMAIN-SUFFIX,readydown.com
@@ -4256,6 +4265,7 @@ payload:
   - DOMAIN-SUFFIX,s.yimg.jp
   - DOMAIN-SUFFIX,s1heng.com
   - DOMAIN-SUFFIX,s1s1s1.com
+  - DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com
   - DOMAIN-SUFFIX,s4miniarchive.com
   - DOMAIN-SUFFIX,s8forum.com
   - DOMAIN-SUFFIX,sa.com
@@ -4628,6 +4638,7 @@ payload:
   - DOMAIN-SUFFIX,stoweboyd.com
   - DOMAIN-SUFFIX,stranabg.com
   - DOMAIN-SUFFIX,straplessdildo.com
+  - DOMAIN-SUFFIX,streaks.jp
   - DOMAIN-SUFFIX,streamingthe.net
   - DOMAIN-SUFFIX,streema.com
   - DOMAIN-SUFFIX,streetvoice.com
@@ -4731,8 +4742,10 @@ payload:
   - DOMAIN-SUFFIX,tangren.us
   - DOMAIN-SUFFIX,taoism.net
   - DOMAIN-SUFFIX,taolun.info
+  - DOMAIN-SUFFIX,tap.io
   - DOMAIN-SUFFIX,tapanwap.com
   - DOMAIN-SUFFIX,tapatalk.com
+  - DOMAIN-SUFFIX,taptap.tw
   - DOMAIN-SUFFIX,taragana.com
   - DOMAIN-SUFFIX,target.com
   - DOMAIN-SUFFIX,tascn.com.au
@@ -5721,6 +5734,7 @@ payload:
   - DOMAIN-SUFFIX,yangjianli.com
   - DOMAIN-SUFFIX,yasni.co.uk
   - DOMAIN-SUFFIX,yayabay.com
+  - DOMAIN-SUFFIX,yb.uncn.jp
   - DOMAIN-SUFFIX,ydy.com
   - DOMAIN-SUFFIX,yeahteentube.com
   - DOMAIN-SUFFIX,yecl.net
@@ -5958,3 +5972,5 @@ payload:
   - IP-CIDR6,2001:67c:4e8::/48,no-resolve
   - IP-CIDR6,2001:b28:f23d::/48,no-resolve
   - IP-CIDR6,2001:b28:f23f::/48,no-resolve
+  - PROCESS-NAME,Telegram.exe
+  - PROCESS-NAME,org.telegram.messenger
