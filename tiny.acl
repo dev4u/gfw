@@ -5901,6 +5901,13 @@ dns\.google
 173.244.217.42/32
 209.95.56.60/32
 
+ # Spark
+(^|\.)amplitude\.com$
+(^|\.)firebaseio\.com$
+(^|\.)hockeyapp\.net$
+(^|\.)readdle\.com$
+(^|\.)smartmailcloud\.com$
+
 # Steam
 (^|\.)fanatical\.com$
 (^|\.)humblebundle\.com$
