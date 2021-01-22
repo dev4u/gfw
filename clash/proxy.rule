@@ -60,6 +60,8 @@ payload:
   - DOMAIN-KEYWORD,beetalk
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,dropbox
+  - DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
+  - DOMAIN-KEYWORD,dualstack.ichnaea-web-
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
   - DOMAIN-KEYWORD,github
@@ -346,6 +348,7 @@ payload:
   - DOMAIN-SUFFIX,amnestyusa.org
   - DOMAIN-SUFFIX,amnyemachen.org
   - DOMAIN-SUFFIX,amoiist.com
+  - DOMAIN-SUFFIX,amplify.outbrain.com
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,ampproject.org
   - DOMAIN-SUFFIX,amtb-taipei.org
@@ -665,6 +668,7 @@ payload:
   - DOMAIN-SUFFIX,bloombergview.com
   - DOMAIN-SUFFIX,bloomfortune.com
   - DOMAIN-SUFFIX,blueangellive.com
+  - DOMAIN-SUFFIX,bluekai.com
   - DOMAIN-SUFFIX,bmfinn.com
   - DOMAIN-SUFFIX,bnews.co
   - DOMAIN-SUFFIX,bnn.co
@@ -843,6 +847,7 @@ payload:
   - DOMAIN-SUFFIX,cdig.info
   - DOMAIN-SUFFIX,cdjp.org
   - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,cdn.cookielaw.org
   - DOMAIN-SUFFIX,cdn.optimizely.com
   - DOMAIN-SUFFIX,cdn.registerdisney.go.com
   - DOMAIN-SUFFIX,cdnews.com.tw
@@ -1315,6 +1320,7 @@ payload:
   - DOMAIN-SUFFIX,dnssec.net
   - DOMAIN-SUFFIX,dnvod.tv
   - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docomo.ne.jp
   - DOMAIN-SUFFIX,doctorvoice.org
   - DOMAIN-SUFFIX,documentingreality.com
   - DOMAIN-SUFFIX,dogfartnetwork.com
@@ -3855,6 +3861,7 @@ payload:
   - DOMAIN-SUFFIX,pastebin.com
   - DOMAIN-SUFFIX,pastie.org
   - DOMAIN-SUFFIX,pathtosharepoint.com
+  - DOMAIN-SUFFIX,pause-confirmed-marketing-images-prod.s3.eu-central-1.amazonaws.com
   - DOMAIN-SUFFIX,pbs.org
   - DOMAIN-SUFFIX,pbwiki.com
   - DOMAIN-SUFFIX,pbworks.com
@@ -3891,6 +3898,7 @@ payload:
   - DOMAIN-SUFFIX,percy.in
   - DOMAIN-SUFFIX,perfectgirls.net
   - DOMAIN-SUFFIX,perfectvpn.net
+  - DOMAIN-SUFFIX,perfops.doracdn.com
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,persecutionblog.com
   - DOMAIN-SUFFIX,persiankitty.com
@@ -4030,6 +4038,7 @@ payload:
   - DOMAIN-SUFFIX,privatetunnel.com
   - DOMAIN-SUFFIX,privatevpn.com
   - DOMAIN-SUFFIX,procopytips.com
+  - DOMAIN-SUFFIX,prod.hjholdings.tv
   - DOMAIN-SUFFIX,profile.line-scdn.net
   - DOMAIN-SUFFIX,prosiben.de
   - DOMAIN-SUFFIX,protonvpn.com
@@ -4201,6 +4210,7 @@ payload:
   - DOMAIN-SUFFIX,rerouted.org
   - DOMAIN-SUFFIX,resilio.com
   - DOMAIN-SUFFIX,resistchina.org
+  - DOMAIN-SUFFIX,rest.zuora.com
   - DOMAIN-SUFFIX,retweeteffect.com
   - DOMAIN-SUFFIX,retweetist.com
   - DOMAIN-SUFFIX,retweetrank.com
@@ -4498,7 +4508,6 @@ payload:
   - DOMAIN-SUFFIX,so-net.net.tw
   - DOMAIN-SUFFIX,sobees.com
   - DOMAIN-SUFFIX,soc.mil
-  - DOMAIN-SUFFIX,socdm.com
   - DOMAIN-SUFFIX,socialwhale.com
   - DOMAIN-SUFFIX,socks-proxy.net
   - DOMAIN-SUFFIX,sockscap64.com
@@ -5365,6 +5374,7 @@ payload:
   - DOMAIN-SUFFIX,vizvaz.com
   - DOMAIN-SUFFIX,vjav.com
   - DOMAIN-SUFFIX,vjmedia.com.hk
+  - DOMAIN-SUFFIX,vjs.zencdn.net
   - DOMAIN-SUFFIX,vllcs.org
   - DOMAIN-SUFFIX,vmixcore.com
   - DOMAIN-SUFFIX,vmpsoft.com
@@ -5972,5 +5982,3 @@ payload:
   - IP-CIDR6,2001:67c:4e8::/48,no-resolve
   - IP-CIDR6,2001:b28:f23d::/48,no-resolve
   - IP-CIDR6,2001:b28:f23f::/48,no-resolve
-  - PROCESS-NAME,Telegram.exe
-  - PROCESS-NAME,org.telegram.messenger
