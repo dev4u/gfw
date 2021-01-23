@@ -11,6 +11,7 @@ payload:
   - DOMAIN,livew.l.qq.com
   - DOMAIN,msg.umeng.com
   - DOMAIN,msg.umengcloud.com
+  - DOMAIN,origin-a.akamaihd.net
   - DOMAIN,router.asus.com
   - DOMAIN,tracking.miui.com
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
