@@ -71,6 +71,7 @@ payload:
   - DOMAIN-KEYWORD,japonx
   - DOMAIN-KEYWORD,japronx
   - DOMAIN-KEYWORD,jooxweb-api
+  - DOMAIN-KEYWORD,livedazn
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,sci-hub
@@ -348,7 +349,6 @@ payload:
   - DOMAIN-SUFFIX,amnestyusa.org
   - DOMAIN-SUFFIX,amnyemachen.org
   - DOMAIN-SUFFIX,amoiist.com
-  - DOMAIN-SUFFIX,amplify.outbrain.com
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,ampproject.org
   - DOMAIN-SUFFIX,amtb-taipei.org
@@ -554,7 +554,6 @@ payload:
   - DOMAIN-SUFFIX,bbsone.com
   - DOMAIN-SUFFIX,bbtoystore.com
   - DOMAIN-SUFFIX,bcast.co.nz
-  - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
   - DOMAIN-SUFFIX,bcc.com.tw
   - DOMAIN-SUFFIX,bcchinese.net
   - DOMAIN-SUFFIX,bcex.ca
@@ -668,7 +667,6 @@ payload:
   - DOMAIN-SUFFIX,bloombergview.com
   - DOMAIN-SUFFIX,bloomfortune.com
   - DOMAIN-SUFFIX,blueangellive.com
-  - DOMAIN-SUFFIX,bluekai.com
   - DOMAIN-SUFFIX,bmfinn.com
   - DOMAIN-SUFFIX,bnews.co
   - DOMAIN-SUFFIX,bnn.co
@@ -847,7 +845,6 @@ payload:
   - DOMAIN-SUFFIX,cdig.info
   - DOMAIN-SUFFIX,cdjp.org
   - DOMAIN-SUFFIX,cdn-apple.com
-  - DOMAIN-SUFFIX,cdn.cookielaw.org
   - DOMAIN-SUFFIX,cdn.optimizely.com
   - DOMAIN-SUFFIX,cdn.registerdisney.go.com
   - DOMAIN-SUFFIX,cdnews.com.tw
@@ -868,7 +865,6 @@ payload:
   - DOMAIN-SUFFIX,centralnation.com
   - DOMAIN-SUFFIX,centurys.net
   - DOMAIN-SUFFIX,certificate-transparency.org
-  - DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
   - DOMAIN-SUFFIX,cfhks.org.hk
   - DOMAIN-SUFFIX,cfos.de
   - DOMAIN-SUFFIX,cftfc.com
@@ -1082,7 +1078,6 @@ payload:
   - DOMAIN-SUFFIX,conoha.jp
   - DOMAIN-SUFFIX,constitutionalism.solutions
   - DOMAIN-SUFFIX,contactmagazine.net
-  - DOMAIN-SUFFIX,control.kochava.com
   - DOMAIN-SUFFIX,convio.net
   - DOMAIN-SUFFIX,coobay.com
   - DOMAIN-SUFFIX,cool18.com
@@ -1213,10 +1208,6 @@ payload:
   - DOMAIN-SUFFIX,dazndn.com
   - DOMAIN-SUFFIX,db.tt
   - DOMAIN-SUFFIX,dbc.hk
-  - DOMAIN-SUFFIX,dc2-vodhls-perform.secure.footprint.net
-  - DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
-  - DOMAIN-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net
-  - DOMAIN-SUFFIX,dcalivedazn.akamaized.net
   - DOMAIN-SUFFIX,dcard.tw
   - DOMAIN-SUFFIX,dcblivedazn.akamaized.net
   - DOMAIN-SUFFIX,dcmilitary.com
@@ -1320,7 +1311,6 @@ payload:
   - DOMAIN-SUFFIX,dnssec.net
   - DOMAIN-SUFFIX,dnvod.tv
   - DOMAIN-SUFFIX,docker.com
-  - DOMAIN-SUFFIX,docomo.ne.jp
   - DOMAIN-SUFFIX,doctorvoice.org
   - DOMAIN-SUFFIX,documentingreality.com
   - DOMAIN-SUFFIX,dogfartnetwork.com
@@ -1563,7 +1553,6 @@ payload:
   - DOMAIN-SUFFIX,exblog.jp
   - DOMAIN-SUFFIX,exchristian.hk
   - DOMAIN-SUFFIX,excite.co.jp
-  - DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
   - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,exmo.com
   - DOMAIN-SUFFIX,exmormon.org
@@ -2384,7 +2373,6 @@ payload:
   - DOMAIN-SUFFIX,hayabusa.io
   - DOMAIN-SUFFIX,hbg.com
   - DOMAIN-SUFFIX,hbo.com
-  - DOMAIN-SUFFIX,hboasia.com
   - DOMAIN-SUFFIX,hbogo.com
   - DOMAIN-SUFFIX,hbogoasia.com
   - DOMAIN-SUFFIX,hbogoasia.hk
@@ -2725,7 +2713,6 @@ payload:
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,instanthq.com
   - DOMAIN-SUFFIX,institut-tibetain.org
-  - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,internet.org
   - DOMAIN-SUFFIX,internetdefenseleague.org
   - DOMAIN-SUFFIX,internetfreedom.org
@@ -2962,21 +2949,8 @@ payload:
   - DOMAIN-SUFFIX,kex.com
   - DOMAIN-SUFFIX,keycdn.com
   - DOMAIN-SUFFIX,kfs.io
-  - DOMAIN-SUFFIX,kh.google.com
   - DOMAIN-SUFFIX,khabdha.org
   - DOMAIN-SUFFIX,khatrimaza.org
-  - DOMAIN-SUFFIX,khm.google.com
-  - DOMAIN-SUFFIX,khm.googleapis.com
-  - DOMAIN-SUFFIX,khm0.google.com
-  - DOMAIN-SUFFIX,khm0.googleapis.com
-  - DOMAIN-SUFFIX,khm1.google.com
-  - DOMAIN-SUFFIX,khm1.googleapis.com
-  - DOMAIN-SUFFIX,khm2.google.com
-  - DOMAIN-SUFFIX,khm2.googleapis.com
-  - DOMAIN-SUFFIX,khm3.google.com
-  - DOMAIN-SUFFIX,khm3.googleapis.com
-  - DOMAIN-SUFFIX,khmdb.google.com
-  - DOMAIN-SUFFIX,khmdb.googleapis.com
   - DOMAIN-SUFFIX,khmusic.com.tw
   - DOMAIN-SUFFIX,kichiku-doujinko.com
   - DOMAIN-SUFFIX,kik.com
@@ -3218,7 +3192,6 @@ payload:
   - DOMAIN-SUFFIX,mangafox.me
   - DOMAIN-SUFFIX,maniash.com
   - DOMAIN-SUFFIX,manicur4ik.ru
-  - DOMAIN-SUFFIX,manifest.prod.boltdns.net
   - DOMAIN-SUFFIX,mansion.com
   - DOMAIN-SUFFIX,mansionpoker.com
   - DOMAIN-SUFFIX,manta.com
@@ -3861,7 +3834,6 @@ payload:
   - DOMAIN-SUFFIX,pastebin.com
   - DOMAIN-SUFFIX,pastie.org
   - DOMAIN-SUFFIX,pathtosharepoint.com
-  - DOMAIN-SUFFIX,pause-confirmed-marketing-images-prod.s3.eu-central-1.amazonaws.com
   - DOMAIN-SUFFIX,pbs.org
   - DOMAIN-SUFFIX,pbwiki.com
   - DOMAIN-SUFFIX,pbworks.com
@@ -3898,7 +3870,6 @@ payload:
   - DOMAIN-SUFFIX,percy.in
   - DOMAIN-SUFFIX,perfectgirls.net
   - DOMAIN-SUFFIX,perfectvpn.net
-  - DOMAIN-SUFFIX,perfops.doracdn.com
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,persecutionblog.com
   - DOMAIN-SUFFIX,persiankitty.com
@@ -4210,7 +4181,6 @@ payload:
   - DOMAIN-SUFFIX,rerouted.org
   - DOMAIN-SUFFIX,resilio.com
   - DOMAIN-SUFFIX,resistchina.org
-  - DOMAIN-SUFFIX,rest.zuora.com
   - DOMAIN-SUFFIX,retweeteffect.com
   - DOMAIN-SUFFIX,retweetist.com
   - DOMAIN-SUFFIX,retweetrank.com
@@ -4272,10 +4242,8 @@ payload:
   - DOMAIN-SUFFIX,rxhj.net
   - DOMAIN-SUFFIX,s-cute.com
   - DOMAIN-SUFFIX,s-dragon.org
-  - DOMAIN-SUFFIX,s.yimg.jp
   - DOMAIN-SUFFIX,s1heng.com
   - DOMAIN-SUFFIX,s1s1s1.com
-  - DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com
   - DOMAIN-SUFFIX,s4miniarchive.com
   - DOMAIN-SUFFIX,s8forum.com
   - DOMAIN-SUFFIX,sa.com
@@ -5374,7 +5342,6 @@ payload:
   - DOMAIN-SUFFIX,vizvaz.com
   - DOMAIN-SUFFIX,vjav.com
   - DOMAIN-SUFFIX,vjmedia.com.hk
-  - DOMAIN-SUFFIX,vjs.zencdn.net
   - DOMAIN-SUFFIX,vllcs.org
   - DOMAIN-SUFFIX,vmixcore.com
   - DOMAIN-SUFFIX,vmpsoft.com
@@ -5913,6 +5880,12 @@ payload:
   - IP-CIDR,119.235.232.0/24,no-resolve
   - IP-CIDR,119.235.235.0/24,no-resolve
   - IP-CIDR,119.235.236.0/23,no-resolve
+  - IP-CIDR,120.232.181.162/32,no-resolve
+  - IP-CIDR,120.241.147.226/32,no-resolve
+  - IP-CIDR,120.253.253.226/32,no-resolve
+  - IP-CIDR,120.253.255.162/32,no-resolve
+  - IP-CIDR,120.253.255.34/32,no-resolve
+  - IP-CIDR,120.253.255.98/32,no-resolve
   - IP-CIDR,129.134.0.0/17,no-resolve
   - IP-CIDR,13.32.0.0/15,no-resolve
   - IP-CIDR,13.35.0.0/17,no-resolve
@@ -5932,6 +5905,10 @@ payload:
   - IP-CIDR,18.194.0.0/15,no-resolve
   - IP-CIDR,18.208.0.0/13,no-resolve
   - IP-CIDR,18.232.0.0/14,no-resolve
+  - IP-CIDR,180.163.150.162/32,no-resolve
+  - IP-CIDR,180.163.150.34/32,no-resolve
+  - IP-CIDR,180.163.151.162/32,no-resolve
+  - IP-CIDR,180.163.151.34/32,no-resolve
   - IP-CIDR,184.173.128.0/17,no-resolve
   - IP-CIDR,185.2.220.0/22,no-resolve
   - IP-CIDR,185.60.216.0/22,no-resolve
@@ -5940,10 +5917,18 @@ payload:
   - IP-CIDR,198.38.96.0/19,no-resolve
   - IP-CIDR,198.45.48.0/20,no-resolve
   - IP-CIDR,203.104.128.0/19,no-resolve
+  - IP-CIDR,203.208.39.0/24,no-resolve
+  - IP-CIDR,203.208.40.0/24,no-resolve
+  - IP-CIDR,203.208.41.0/24,no-resolve
+  - IP-CIDR,203.208.43.0/24,no-resolve
+  - IP-CIDR,203.208.50.0/24,no-resolve
   - IP-CIDR,204.15.20.0/22,no-resolve
   - IP-CIDR,207.45.72.0/22,no-resolve
   - IP-CIDR,208.43.122.128/27,no-resolve
   - IP-CIDR,208.75.76.0/22,no-resolve
+  - IP-CIDR,220.181.174.162/32,no-resolve
+  - IP-CIDR,220.181.174.226/32,no-resolve
+  - IP-CIDR,220.181.174.34/32,no-resolve
   - IP-CIDR,23.246.0.0/18,no-resolve
   - IP-CIDR,27.0.236.0/22,no-resolve
   - IP-CIDR,31.13.24.0/21,no-resolve
